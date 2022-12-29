@@ -9,5 +9,12 @@ public class Q2 {
 		String str = " This   is    a   practice     question ";
 		System.out.println(str.replaceAll("\\s+"," ").trim());
 		//System.out.println(str);
+		
+		
+		
+		
+		
+		
+		
 	}
 }
